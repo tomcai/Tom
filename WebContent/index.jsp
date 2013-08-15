@@ -9,10 +9,6 @@
 <body>
 
 Push and pull testin modify
-push
-testtest
-tewst
-
 
 </body>
 </html>
