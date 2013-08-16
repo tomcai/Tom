@@ -8,7 +8,13 @@
 </head>
 <body>
 
+<<<<<<< HEAD
 Push and pull testin modify dr
+=======
+Push and pull testin modify dfhfg gf's code
+
+wendy test3
+>>>>>>> 89084a6080392b99147b8c80f9f6c23640e8bcda
 
 </body>
 </html>
