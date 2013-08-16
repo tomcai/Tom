@@ -8,7 +8,7 @@
 </head>
 <body>
 
-wendy test1
+wendy test2
 
 </body>
 </html>
