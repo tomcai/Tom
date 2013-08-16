@@ -10,7 +10,15 @@
 
 Push and pull testin modify dfhfg gf's code
 
+<<<<<<< HEAD
 wendy test3
+=======
+<<<<<<< HEAD
+John
+=======
+wendy test2
+>>>>>>> a09efdaa792533b06ebf0573779c35f86cb94d6c
+>>>>>>> e267409ad63884d2217519580cfb979e480b8346
 
 </body>
 </html>
