@@ -8,7 +8,11 @@
 </head>
 <body>
 
+<<<<<<< HEAD
        Push and pull testin modify dfhfg John's code
+=======
+Push and pull testin modify dfhfg df 
+>>>>>>> 92b4fc0a954eb02fb0d7de57c460ce21c4fba2d4
 
 </body>
 </html>
